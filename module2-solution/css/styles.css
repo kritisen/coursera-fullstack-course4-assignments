@@ -21,6 +21,11 @@ body {
   border: 1px solid black; 
 }
 
+.box-clear {
+  margin: 10px;
+  text-align: center;
+}
+
 .boxtitle {
   padding: 10px;
   border: 1px solid black; 
