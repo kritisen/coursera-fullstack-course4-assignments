@@ -18,6 +18,7 @@ body {
 .box {
   margin: 5px;
   background-color: grey;
+  border: 1px solid black; 
 }
 
 .boxtitle {
